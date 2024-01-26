@@ -1,0 +1,37 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Enigma of Time",
+      "author": "Amanda Writer",
+      "genre": "Science Fiction",
+      "price": 19.99,
+      "in_stock": true
+    },
+    {
+      "id": 2,
+      "title": "Mystery at Midnight Manor",
+      "author": "John Sleuth",
+      "genre": "Mystery",
+      "price": 14.95,
+      "in_stock": true
+    },
+    {
+      "id": 3,
+      "title": "The Art of Coding",
+      "author": "Tech Guru",
+      "genre": "Technology",
+      "price": 29.99,
+      "in_stock": false
+    },
+    {
+      "id": 4,
+      "title": "Cooking Adventures",
+      "author": "Chef Culinary",
+      "genre": "Cookbook",
+      "price": 24.5,
+      "in_stock": true
+    },
+    null
+  ]
+}
